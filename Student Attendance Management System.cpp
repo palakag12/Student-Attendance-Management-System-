@@ -9,7 +9,7 @@ class attend
                 int enter();
                 void calculate();
 };
-int attend::enter()//update the attendance 
+void attend::enter()//update the attendance 
 {
         int date,month,year;
         int i,n,k,a,c;
